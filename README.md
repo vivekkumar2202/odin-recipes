@@ -1,0 +1,1 @@
+This project contains a list of recipies. It is a basic html project which only contains html code. It will have a list of dishes which will be linked to its recipie. It will contain different types of headings. It will have characters with strong and emphasis attributes. It will have images of dishes.
